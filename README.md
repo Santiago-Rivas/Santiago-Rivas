@@ -9,7 +9,7 @@ Mi nombre es Santiago Rivas.
 Soy alumno de Ingeniería Informática en el Instituto Tecnológico de Buenos Aires y estoy en mi cuarto año.
 En este portfolio voy a presentar algunos de los proyectos en los cuales trabaje en mi carrera educativa.
 
-## Proyectos de Aplicaciones Web (WEBAPP)
+## Proyectos de Aplicaciones Web (WEB APP)
 
 Web application for student exchange for universities.
 
@@ -25,6 +25,28 @@ Aplicación web para sistema de intercambios universitarios.
 * Javascript
 * JSP
 
+### Screenshots
+
 ![PAW-1](https://github.com/Santiago-Rivas/Santiago-Rivas/blob/main/img/PAW_1.png)
 
 ![PAW-2](https://github.com/Santiago-Rivas/Santiago-Rivas/blob/main/img/PAW_2.png)
+
+## Sistemas de Inteligencia Artificial (SIA)
+
+Implementation for different AI algorithms.
+
+Implementación para differentes algoritmos de IA.
+
+### Technologies
+
+* Python
+
+### Algorithms
+
+* [Data Analisis](https://github.com/santiago-rivas/sia-tp0)
+* [Searching Algorithms](https://github.com/santiago-rivas/sia-tp1)
+* [Genetic Algorithms](https://github.com/santiago-rivas/sia-tp2)
+* [Linear and Multi Layer Perceptron](https://github.com/santiago-rivas/sia-tp3)
+* [Unsupervised Learning](https://github.com/santiago-rivas/sia-tp4)
+* [Deep Learning](https://github.com/santiago-rivas/sia-tp5)
+
