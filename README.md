@@ -17,6 +17,8 @@ Aplicación web para sistema de intercambios universitarios.
 
 [ITBA Exchange](http://old-pawserver.it.itba.edu.ar/paw-2023b-07/universities)
 
+### Technologies
+
 * Java
 * Spring MVC
 * Hibernate
