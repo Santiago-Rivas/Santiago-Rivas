@@ -15,7 +15,7 @@ Web application for student exchange for universities.
 
 Aplicación web para sistema de intercambios universitarios.
 
-![ITBA Exchange](http://old-pawserver.it.itba.edu.ar/paw-2023b-07/universities)
+[ITBA Exchange](http://old-pawserver.it.itba.edu.ar/paw-2023b-07/universities)
 
 * Java
 * Spring MVC
@@ -23,6 +23,6 @@ Aplicación web para sistema de intercambios universitarios.
 * Javascript
 * JSP
 
-![PAW-1](img/PAW-1)
+![PAW-1](https://github.com/Santiago-Rivas/Santiago-Rivas/blob/main/img/PAW_1.png)
 
-![PAW-2](img/PAW-2)
+![PAW-2](https://github.com/Santiago-Rivas/Santiago-Rivas/blob/main/img/PAW_2.png)
