@@ -35,7 +35,7 @@ Aplicación web para sistema de intercambios universitarios.
 
 Implementation for different AI algorithms.
 
-Implementación para differentes algoritmos de IA.
+Implementación de diferentes algoritmos de IA.
 
 ### Technologies
 
@@ -49,4 +49,12 @@ Implementación para differentes algoritmos de IA.
 * [Linear and Multi Layer Perceptron](https://github.com/santiago-rivas/sia-tp3)
 * [Unsupervised Learning](https://github.com/santiago-rivas/sia-tp4)
 * [Deep Learning](https://github.com/santiago-rivas/sia-tp5)
+
+### Ensayo - La IA y Tu Privacidad
+
+Essay about AI and your privacy.
+
+Ensayo sobre tu privacidad y la IA.
+
+[La IA y Tu Privacidad (Español)](https://github.com/Santiago-Rivas/Santiago-Rivas/blob/main/doc/SIA-TP6-61007-Santiago_Rivas.pdf)
 
