@@ -15,7 +15,7 @@ Web application for student exchange for universities.
 
 Aplicación web para sistema de intercambios universitarios.
 
-[ITBA Exchange](http://old-pawserver.it.itba.edu.ar/paw-2023b-07/universities)
+[ITBAXChange](http://old-pawserver.it.itba.edu.ar/paw-2023b-07/universities)
 
 ### Technologies
 
@@ -57,4 +57,3 @@ Essay about AI and your privacy.
 Ensayo sobre tu privacidad y la IA.
 
 [La IA y Tu Privacidad (Español)](https://github.com/Santiago-Rivas/Santiago-Rivas/blob/main/doc/SIA-TP6-61007-Santiago_Rivas.pdf)
-
