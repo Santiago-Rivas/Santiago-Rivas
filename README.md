@@ -11,11 +11,11 @@ En este portfolio voy a presentar algunos de los proyectos en los cuales trabaje
 
 ## Proyectos de Aplicaciones Web (WEB APP)
 
-Web application for student exchange for universities.
+Web application for university student exchange.
 
 Aplicación web para sistema de intercambios universitarios.
 
-[ITBAXChange](http://old-pawserver.it.itba.edu.ar/paw-2023b-07/universities)
+Link: [ITBA X Change](http://old-pawserver.it.itba.edu.ar/paw-2023b-07/universities)
 
 ### Technologies
 
