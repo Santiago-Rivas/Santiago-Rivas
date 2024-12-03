@@ -6,7 +6,7 @@ Through my years of education I have worked on many projects.
 In this portfolio I will be showing some of the projects I have been working through my years of education.
 
 Mi nombre es Santiago Rivas.
-Soy alumno de Ingeniería Informática en el Instituto Tecnológico de Buenos Aires y estoy en mi cuarto año.
+Soy alumno de Ingeniería Informática en el Instituto Tecnológico de Buenos Aires y estoy en mi quinto año.
 En este portfolio voy a presentar algunos de los proyectos en los cuales trabaje en mi carrera educativa.
 
 ## Proyectos de Aplicaciones Web (WEB APP)
